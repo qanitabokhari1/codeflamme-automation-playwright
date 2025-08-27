@@ -60,7 +60,7 @@ Before running this project, ensure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/qanitabokhari1/codeflamme-automation-playwright.git
 cd codeflamme-automation
 ```
 
